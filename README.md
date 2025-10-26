@@ -7,7 +7,7 @@ I'm looking for software engineering opportunities for Summer 2025.
 I have experiences working as:
 
 - Undergraduate Student Researcher under the guidance of professor [Molly Q Feldman](https://www.feldmanmolly.com/) on a crowdsourcing platform
-- Software Engineer Volunteer for [Ashoka](https://www.ashoka.org/en-us)
+- Software Developer for [Ashoka](https://www.ashoka.org/en-us)
 - Frontend Engineer Intern at [FPT Software](https://fptsoftware.com/)
 - Game Developer Intern at [BonBonGame](https://apps.apple.com/kn/developer/bonbongame-com/id1219863203) in Summer 2022.
 
