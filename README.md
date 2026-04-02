@@ -4,7 +4,7 @@ Hi my name is Ha Nguyen (she/her), currently living in Queens, NYC.
 
 I'm currently a GenAI Engineer Intern at [Valtruis](https://www.valtruis.com/), a Venture Capital firm in Chicago focusing on investing in healthcare start-ups. 
 
-I’m leading a few in-house projects in the portfolio support area, and the biggest one is Board Copilot. What I’m most proud of is that it’s not just a prototype or an internal demo - it’s been used and validated in more than 10 real board meetings by high profile stakeholders. It’s also not a generic AI tool. It’s highly tailored to Valtruis’s specific use case, and I think that’s been my edge: building something that fits real user needs, works in real settings, and has real impact.
+I’m leading a few in-house projects in the portfolio support area, and the biggest one is Board Copilot - a "superhuman" AI tool that can support the investment team to prep for board meetings with portfolio companies through features like guided tour of the board deck with insights compared to historical data and VMP, podcast briefings, a chatbot and KPI dashboard. What I’m most proud of is that it’s not just a prototype or an internal demo - it’s been used and validated in more than 10 real board meetings by high profile stakeholders. It’s also not a generic AI tool. It’s highly tailored to Valtruis’s specific use case, and I think that’s been my edge: building something that fits real user needs, works in real settings, and has real impact.
 
 Additionally, I recently graduated from [Oberlin College](https://www.oberlin.edu/) in December 2025. 
 Double major in Computer Science and Cinema Studies.
