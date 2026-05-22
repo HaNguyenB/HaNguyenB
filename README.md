@@ -16,7 +16,7 @@ Before Valtruis, I have experiences working as:
 - **Undergraduate Student Researcher** under the guidance of professor [Molly Q Feldman](https://www.feldmanmolly.com/) on a crowdsourcing platform.
 - **Software Developer** for [Ashoka](https://www.ashoka.org/en-us).
 
-Right now, I'm looking for full-time software engineering opportunities for in the East Coast.
+Right now, I'm looking for full-time software engineering opportunities in the East Coast.
 
 You can reach me via mail at ngbha2003@gmail.com/hnguyen3@oberlin.edu or my [LinkedIn](https://www.linkedin.com/in/ha-nguyen-88295a226/). 
 
